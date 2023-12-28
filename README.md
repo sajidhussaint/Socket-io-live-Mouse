@@ -56,5 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Special thanks to the creators of Node.js, Express, and Socket.io for providing powerful tools for building real-time applications.
-```
 

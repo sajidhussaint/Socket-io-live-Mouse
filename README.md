@@ -15,7 +15,7 @@ This is a simple web application built with Node.js, Express, and Socket.io that
 1. Clone the repository:
 
    ```bash
-   git clone github.com/sajidhussaint/Socket-io-live-Mouse.git
+   git clone https://github.com/sajidhussaint/Socket-io-live-Mouse.git
    ```
 
 2. Install dependencies:

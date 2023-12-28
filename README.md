@@ -15,7 +15,7 @@ This is a simple web application built with Node.js, Express, and Socket.io that
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/realtime-mouse-tracking-app.git
+   github.com/sajidhussaint/Socket-io-live-Mouse.git
    ```
 
 2. Install dependencies:
